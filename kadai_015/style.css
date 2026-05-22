@@ -6,11 +6,11 @@ html{
   font-size: 20px;
 }
 
-.blue,h2{
+.blue{
   color: skyblue;
 }
 
-.pink,h2{
+.pink{
   color:rgb(255, 192, 203)
 }
 
@@ -22,11 +22,10 @@ h1{ font-family:
 
 font-size: 2em;
 
-padding: 1.2em;
+letter-spacing: 1.2em;
 
-h1 {
-  text-shadow: 2px 2px 4px gray;
-  border-bottom: 3px solid rgb(115, 115, 114);
+ text-shadow: 2px 2px 4px gray;
+ border-bottom: 3px solid rgb(115, 115, 114);
 
 }
 
@@ -38,3 +37,4 @@ body{
 #basic p{
   font-weight: bold;
 }
+
